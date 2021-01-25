@@ -50,7 +50,7 @@ Go to any directory you'd like to create the project.
 ```
 $ cd <ANY_DIRECTORY>
 ```
-Clone the project from GitHub repository. Project files will be placed under <ANY_DIRECTORY>/grocery-scraper
+Clone the project from GitHub repository. Project files will be placed under <ANY_DIRECTORY>/checkout
 ```
 $ git clone https://github.com/hakan-bali/checkout.git
 ```
